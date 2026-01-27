@@ -32,3 +32,10 @@ The focus is clarity, not prediction.
 ## Next Steps
 - Compare mean vs median across key metrics
 - Quantify variability as a stability signal
+
+### Day 2 — Mean vs Median
+
+- Identified metrics distorted by outliers
+- Median better represents “typical” rehab behavior
+- Mean is sensitive to missed days and extreme sessions
+
