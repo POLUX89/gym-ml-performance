@@ -39,3 +39,12 @@ The focus is clarity, not prediction.
 - Median better represents “typical” rehab behavior
 - Mean is sensitive to missed days and extreme sessions
 
+### Day 3 — Variability
+
+- Consistency matters more than peaks in rehab
+- In normal distributions: 1.5 * IQR rule to detect outliers is not a law, is a rule but provides 99% of data but IQR make no assumptions regarding the distribution
+- Histogram with KDE is a good idea, but keep in mind KDE is density (proportion)
+- Variance & MSE are the same just if bias is zero when calculating MSE
+- MAD (Median Absolute Deviation from Median) is recommended to handle outliers
+- Percentiles also used for outliers handling
+- Coefficient of Variation (CV) = (std / mean) used to seek stability
