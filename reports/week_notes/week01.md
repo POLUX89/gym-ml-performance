@@ -48,3 +48,11 @@ The focus is clarity, not prediction.
 - MAD (Median Absolute Deviation from Median) is recommended to handle outliers
 - Percentiles also used for outliers handling
 - Coefficient of Variation (CV) = (std / mean) used to seek stability
+
+### Day 5 — Relationships & Correlation
+
+- Correlation measures association, not cause
+- Visual inspection must precede statistics (scatterplot)
+- Many apparent relationships are context-dependent
+- Correlation is not robust to outliersçç
+- Correlation is linear but a relationship could be non linear
